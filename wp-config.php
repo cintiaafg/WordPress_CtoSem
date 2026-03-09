@@ -36,10 +36,10 @@
 /** The database collate type. Don't change this if in doubt. */
 /*define( 'DB_COLLATE', '' );*/
 
-define('DB_NAME', 'if0_41298578_prueba1');
-define('DB_USER', 'if0_41298578');
-define('DB_PASSWORD', 'nTZYEqn6iT');
-define('DB_HOST', 'sql103.byetcluster.com');
+define('DB_NAME', 'prueba1');
+define('DB_USER', 'root');
+define('DB_PASSWORD', 'root');
+define('DB_HOST', 'localhost:3307');
 
 /**#@+
  * Authentication unique keys and salts.
